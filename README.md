@@ -29,3 +29,7 @@ Additional peripheral examples for the **HPM6E80** (RISC-V) microcontroller on t
 
 - Examples follow the SDK layout/conventions and use SPDX headers.
 - See the official HPM6E00 User Manual and Datasheet for register-level detail.
+
+## Contacts
+
+- Telegram: t.me/riscv_mcu
