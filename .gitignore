@@ -1,0 +1,7 @@
+# Build output
+build/
+**/build/
+
+# SDK tooling / generator cache
+.cache/
+**/.cache/
